@@ -1,4 +1,4 @@
-# manyEmailMak
+# manyEmailMake
 Create multiple emails automatically with this Excel VBA tool!
 
 This project is an Excel macro tool that can automatically generate multiple emails in the Outlook drafts folder. Based on the numerous email addresses in the sheet, the following two methods can be used to create email drafts.
